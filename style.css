@@ -1,0 +1,119 @@
+fieldset{
+    border-radius: 40px;
+    text-align: justify;
+    background-color: wheat;
+}
+#min{
+    
+    box-shadow: inset 0 0 40px wheat;
+    border-radius: 40px;
+    background-color: black;
+    color: grey;
+}
+#result{
+    text-align: center;
+}
+#heading{
+    text-align: center;
+    color: wheat;
+}
+#q1{
+    text-align: end;
+}
+#q2{
+    text-align: end;
+}
+#q3{
+    text-align: end;
+}
+#q4{
+    text-align: end;
+}
+#q5{
+    text-align: end;
+}
+#q6{
+    text-align: end;
+}
+#q7{
+    text-align: end;
+}
+#q8{
+    text-align: end;
+}
+#q9{
+    text-align: end;
+}
+#q10{
+    text-align: end;
+}
+#li1{
+    list-style: lower-roman;
+}
+#li2{
+    list-style: lower-roman;
+}#li3{
+    list-style: lower-roman;
+}
+#li4{
+    list-style: lower-roman;
+}
+#li5{
+    list-style: lower-roman;
+}
+#li6{
+    list-style: lower-roman;
+}
+#li7{
+    list-style: lower-roman;
+}
+#li8{
+    list-style: lower-roman;
+}
+#li9{
+    list-style: lower-roman;
+}
+#li10{
+    list-style: lower-roman;
+}
+#intro:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#vb:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#nm:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#mn:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#og:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#it:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#tr:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#nt:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#ro:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+#in:first-letter{
+    font-size: 200%;
+    font-weight: bold;
+}
+
